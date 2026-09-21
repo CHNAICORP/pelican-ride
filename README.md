@@ -4,6 +4,12 @@
 
 项目完全由一个自包含的 `index.html` 构成，不依赖框架、构建工具、外部字体或网络资源。打开文件即可播放；也可以把仓库部署到 GitHub Pages、Netlify 或任意静态文件服务器。
 
+## 效果展示
+
+下面这张图展示了项目的视觉方向与最终角色效果：
+
+![鹈鹕骑自行车效果图](assets/pelican-ride-reference.png)
+
 ## 功能
 
 - 手绘风格的海边场景与鹈鹕骑行插画
@@ -33,4 +39,3 @@ python -m http.server 8000
 ## 许可证
 
 MIT License，详见 [LICENSE](LICENSE)。
-
